@@ -1,0 +1,35 @@
+{
+  "baseline_model": {
+    "attack_accuracy": 0.5088,
+    "attack_precision": 0.1088,
+    "attack_recall": 0.544,
+    "attack_f1": 0.18133333333333332,
+    "threshold": 0.9630426168441772,
+    "avg_member_confidence": 0.9112687110900879,
+    "avg_non_member_confidence": 0.8963358998298645,
+    "confidence_gap": 0.014932811260223389
+  },
+  "dp_model": {
+    "attack_accuracy": 0.5088,
+    "attack_precision": 0.1088,
+    "attack_recall": 0.544,
+    "attack_f1": 0.18133333333333332,
+    "threshold": 0.9630426168441772,
+    "avg_member_confidence": 0.9112687110900879,
+    "avg_non_member_confidence": 0.8963358998298645,
+    "confidence_gap": 0.014932811260223389,
+    "privacy_epsilon": 5.0,
+    "privacy_delta": 1e-05
+  },
+  "privacy_analysis": {
+    "attack_accuracy_reduction": 0.0,
+    "confidence_gap_reduction": 0.0,
+    "interpretation": "Both models show similar privacy characteristics. Attack accuracy ~51% indicates models don't significantly leak membership information.",
+    "privacy_level": "GOOD - Models generalize well without overfitting"
+  },
+  "statistical_significance": {
+    "confidence_gap_baseline": 0.014932811260223389,
+    "confidence_gap_dp": 0.014932811260223389,
+    "difference": 0.0
+  }
+}

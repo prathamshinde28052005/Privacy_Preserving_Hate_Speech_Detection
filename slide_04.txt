@@ -1,0 +1,20 @@
+
+    ==================== SLIDE 4: METHODOLOGY ====================
+    🔧 Technical Approach:
+    
+    1. DATA PREPARATION:
+       • Dataset: 60K balanced hate/non-hate samples
+       • Preprocessing: Text cleaning, tokenization
+       • Split: 70% train, 15% validation, 15% test
+    
+    2. MODEL ARCHITECTURE:
+       • Base Model: DistilBERT (66M parameters)
+       • Task: Binary text classification
+       • Framework: PyTorch + HuggingFace
+    
+    3. PRIVACY TECHNIQUES:
+       • Differential Privacy: ε≈5.0
+       • Federated Learning: Simulated with 3 clients
+       • Privacy Attacks: Membership inference, data leakage tests
+    ====================================================================
+    

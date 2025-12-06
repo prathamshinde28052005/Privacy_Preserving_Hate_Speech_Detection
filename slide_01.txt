@@ -1,0 +1,10 @@
+
+    ======================= SLIDE 1: TITLE =======================
+    🔒 Privacy in Large Language Models
+    🎯 Hate Speech Detection with Differential Privacy
+    
+    AI Internship Project
+    [Your Name]
+    [Date]
+    ==============================================================
+    

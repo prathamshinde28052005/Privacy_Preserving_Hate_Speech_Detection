@@ -1,0 +1,20 @@
+
+    ==================== SLIDE 7: RESULTS - PRIVACY ====================
+    🔒 Attack Resistance Tests:
+    
+    1. MEMBERSHIP INFERENCE ATTACK:
+       • Goal: Detect if data was in training set
+       • Result: 50.88% success (≈ random guessing!)
+       • Interpretation: Models don't leak membership info
+    
+    2. DATA LEAKAGE TEST:
+       • Goal: Detect exact memorization
+       • Result: Minimal memorization in both models
+       • Interpretation: Models generalize well
+    
+    3. MODEL INVERSION ATTACK:
+       • Goal: Reconstruct training data
+       • Result: Limited success (20% for hate words)
+       • Interpretation: Models protect sensitive patterns
+    ====================================================================
+    

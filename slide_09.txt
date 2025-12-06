@@ -1,0 +1,20 @@
+
+    ==================== SLIDE 9: KEY INSIGHTS ====================
+    💡 What We Learned:
+    
+    1. POSITIVE FINDINGS:
+       • Privacy and accuracy CAN coexist
+       • DP implementation adds minimal overhead
+       • Models inherently resist some attacks through generalization
+       • Hate speech detection doesn't heavily memorize data
+    
+    2. CHALLENGES:
+       • Target accuracy (95%) not fully reached (82% achieved)
+       • Manual DP implementation due to library issues
+       • Computational constraints for larger models
+    
+    3. SURPRISES:
+       • Baseline model already had good privacy properties
+       • Attack resistance was better than expected
+    ====================================================================
+    

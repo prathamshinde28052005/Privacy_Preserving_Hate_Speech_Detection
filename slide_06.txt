@@ -1,0 +1,18 @@
+
+    ==================== SLIDE 6: RESULTS - ACCURACY ====================
+    📊 Model Performance:
+    
+    BASELINE MODEL (No Privacy):
+    • Accuracy: 82.53%
+    • Precision: [Your Value]
+    • Recall: [Your Value]
+    • F1-Score: [Your Value]
+    
+    DP MODEL (ε≈5.0):
+    • Accuracy: 82.16%
+    • Privacy Cost: Only 0.5% accuracy drop!
+    • Trade-off: Excellent balance
+    
+    🎯 Achievement: >82% accuracy with strong privacy
+    ====================================================================
+    

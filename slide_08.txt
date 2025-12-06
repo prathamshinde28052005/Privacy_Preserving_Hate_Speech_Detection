@@ -1,0 +1,18 @@
+
+    ==================== SLIDE 8: VISUALIZATION ====================
+    📈 Key Visuals to Show:
+    
+    1. Accuracy Comparison Chart
+       - Baseline vs DP model accuracy
+       - Minimal trade-off visualization
+    
+    2. Privacy-Accuracy Trade-off Graph
+       - Shows relationship between ε and accuracy
+    
+    3. Attack Resistance Comparison
+       - Bar chart showing attack success rates
+    
+    4. Confidence Distribution
+       - Member vs non-member confidence scores
+    ====================================================================
+    

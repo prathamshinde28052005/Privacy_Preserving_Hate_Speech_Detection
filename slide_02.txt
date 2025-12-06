@@ -1,0 +1,12 @@
+
+    ==================== SLIDE 2: PROBLEM STATEMENT ====================
+    🚨 The Challenge:
+    • Hate speech detection requires sensitive user data
+    • Traditional AI models can memorize and leak private information
+    • Privacy regulations (GDPR, CCPA) require protection
+    • Need: Accurate detection WITHOUT compromising privacy
+    
+    💡 Our Solution:
+    Implement Differential Privacy in LLMs for hate speech detection
+    ====================================================================
+    
